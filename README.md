@@ -7,7 +7,10 @@
       * Prueba de los algoritmos: representación de la memoria conceptual. 
       * Pseudocódigos
 
-2. Instalación de Anaconda y Py...
+2. Instalación y uso 
+      * Anaconda 
+      * Jupyter
+      * Pythonista 3
 
 3. Lenguaje de programación Python
       * Datos generales sobre Python
