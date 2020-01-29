@@ -59,3 +59,4 @@
       
 6. BONUS. Quantopian. Uso de plataformas para algorithmic trading.
    
+;)
