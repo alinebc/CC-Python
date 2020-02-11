@@ -1,18 +1,13 @@
 
 ## Temario para curso de Python
-1.  Algoritmos, Diagramas de Flujo y Pseudocódigos.
+0.  Algoritmos y Pseudocódigos.
 
-      * Vocabulario y sintaxis.
-      * Estructuras de control básicas: secuenciales, condicionales, repetitivas.
-      * Prueba de los algoritmos: representación de la memoria conceptual. 
-      * Pseudocódigos
-
-2. Instalación y uso 
+1. Instalación y uso 
       * Anaconda 
       * Jupyter
       * Pythonista 3
 
-3. Lenguaje de programación Python
+2. Básicos de Python
       * Datos generales sobre Python
       * Tipos de datos fundamentales
       * Operadores: aritméticos, relacionales y lógicos.
@@ -22,7 +17,7 @@
       * Estructuras de datos básicas: listas, tuplas, conjuntos y diccionarios
       * Ejercicios de repaso
       
-4. Numpy
+3. Numpy
       * Introducción a Numpy
       * Arreglos 
       * Operaciones
@@ -40,23 +35,23 @@
       * Manejo de series de tiempo
       * Ejercicios    
          
-4. Visualización de información con Matplotlib y Pandas
+5. Visualización de información con Matplotlib y Pandas
       * Introducción a visualización de información con Python
       * Matplotlib
       * Pandas
       * Ejercicios
       
       
-4. Fuentes de información
+6. Fuentes de información
       * Introducción
       * DataReader de Pandas
       * Quandl
       * Bloomberg
       * Ejercicios
       
-5. Proyectos
-      *  Tareas de Luis ....
+7. Proyectos
+      *  Medir y monitorear volatilidad
+          * GARCH
+      *  ...
       
-6. BONUS. Quantopian. Uso de plataformas para algorithmic trading.
-   
-;)
+8. BONUS. Quantopian. Uso de plataformas para algorithmic trading.
