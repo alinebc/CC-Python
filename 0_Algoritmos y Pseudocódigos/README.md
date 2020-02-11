@@ -1,2 +1,2 @@
-Algoritmos y Pseudocódigos
+Algoritmos y pseudocódigos
 ------
